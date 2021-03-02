@@ -15,3 +15,9 @@ conda create --name "env project" python="version"
 ```
 $ conda env remove --name "env name"
 ```
+
+#### Pending
+```
+pip folder & cheat sheet
+conda folder
+```
