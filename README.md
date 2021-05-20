@@ -15,6 +15,10 @@ conda create --name "env project" python="version"
 ```
 $ conda env remove --name "env name"
 ```
+## Create YML file
+```
+conda env export > "name".yml
+```
 
 #### Pending
 ```
