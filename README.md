@@ -7,6 +7,10 @@ This is something like a CheatSheet for my personal workflow :)
 ```
 conda install pytorch cudatoolkit -c pytorch
 ```
+## Install CUDAtoolKit and cuDNN
+```
+conda install cudetoolkit="11.0" cudnn="8.0" -c=conda-forge
+```
 ## Create Conda env
 ```
 conda create --name "env project" python="version"
