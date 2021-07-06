@@ -16,6 +16,15 @@ conda create --name "env project" python="version"
 ```
 conda env remove --name "env name"
 ```
+**Install & register jupyter Kernel**
+```
+conda install -c anaconda ipykernel #to install
+python -m kernel install --user --name="name" #to register kernel
+```
+```
+ex: 
+python -m ipykernel install --user --name tensorflow --display-name "Python 3.8 (tensorflow)"
+```
 **Create YML file from current env**
 ```
 conda env export > "name".yml
