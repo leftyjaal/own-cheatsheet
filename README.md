@@ -2,6 +2,8 @@
 I use this cheat sheet as referece when im working and forgot some command.
 This is going to be updated constantly in time
 
+The idea of this cheatsheet is to have a reference for current and future projects en my carreer
+
 ## Table of Contents
   * [1) Conda](#1-conda)
   * [2) Pip](#2-pip)
