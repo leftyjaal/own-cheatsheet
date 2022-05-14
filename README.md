@@ -10,6 +10,17 @@ The idea of this cheatsheet is to have a reference for current and future projec
     
 
 ## Conda
+**INSTALL Conda on Linux**
+```
+Go to: https://www.anaconda.com/products/distribution#Downloads 
+
+Copy the linux download hyperlink like:
+https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh
+Type: wget <link>
+Type: bash Anaconda*-*-Linux-x86_64.sh
+Restart shell or source ~/.bashrc
+
+```
 **Create Conda env**
 ```
 conda create --name "env project" python="version"
