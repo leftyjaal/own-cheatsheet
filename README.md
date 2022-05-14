@@ -16,8 +16,10 @@ Go to: https://www.anaconda.com/products/distribution#Downloads
 
 Copy the linux download hyperlink like:
 https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh
+
 Type: wget <link>
 Type: bash Anaconda*-*-Linux-x86_64.sh
+
 Restart shell or source ~/.bashrc
 
 ```
