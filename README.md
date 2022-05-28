@@ -7,6 +7,7 @@ The idea of this cheatsheet is to have a reference for current and future projec
 ## Table of Contents
   * [1) Conda](#1-conda)
   * [2) Pip](#2-pip)
+  * [3) Python venv](#3-venv)
     
 
 ## Conda
@@ -55,6 +56,15 @@ conda install cudatoolkit="11.0" cudnn="8.0" -c=conda-forge
 
 ## Pip
 
+## venv
+create a Python virtual enviroment
+```
+python3 -m venv "venv name"
+```
+activate virtual enviroment
+```
+source "venv name"/bin/activate
+```
 
 
 
