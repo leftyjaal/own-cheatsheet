@@ -4,6 +4,9 @@ sudo apt install build-essential
 ```
 
 ## Install NodeJS and NPM
+```
+can use thi video => https://www.youtube.com/watch?v=NS3aTgKztis&t=194
+```
 ### Op 1
 ```
 sudo apt install nodejs -y
